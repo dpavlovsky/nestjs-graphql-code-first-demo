@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.fontSize": 14,
+  "editor.minimap.maxColumn": 80,
+  "prettier.printWidth": 120,
+  "cSpell.words": []
+}
